@@ -8,9 +8,9 @@
 
 ## Downloads
 
-Lecture notes download: [MXB322 Lecture Notes PDF](https://www.github.com/Tarang74/MXB322/raw/main/MXB322%20Lecture%20Notes.pdf)
+Lecture notes download: [MXB322 Lecture Notes PDF](https://www.github.com/MathMaestros/MXB322/raw/main/MXB322%20Lecture%20Notes.pdf)
 
-Exam notes download: [MXB322 Exam Notes PDF](https://www.github.com/Tarang74/MXB322/raw/main/MXB322%20Exam%20Notes.pdf)
+Exam notes download: [MXB322 Exam Notes PDF](https://www.github.com/MathMaestros/MXB322/raw/main/MXB322%20Exam%20Notes.pdf)
 
 ---
 
@@ -23,6 +23,8 @@ This repository provides **lecture notes** and **exam notes** for **MXB322 - Par
 ## Contents
 
 1. Fourier Series
+2. Partial Differential Equations
+3. Separation of Variables
 
 ---
 
